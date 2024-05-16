@@ -1,6 +1,6 @@
 # Mars-bs4Py
 
-# Project: Mars Web Scraping and Data Analysis
+# Project: Web Scraping and Data Analysis on Mars!
 
 ## Project Overview:
 
