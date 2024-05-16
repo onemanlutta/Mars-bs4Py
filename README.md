@@ -25,8 +25,8 @@ Mars-bstPy (repository)
 |   |-- part_2_mars_weather.ipynb  
 |   |-- README.md  
 |  
-|-- Data_Outputs  
-|   |-- mars_news_data.json (optional, if exported)  
+|-- Data_Outputs (directory)  
+|   |-- mars_news_data.json  
 |   |-- mars_weather_data.csv  
 
 
