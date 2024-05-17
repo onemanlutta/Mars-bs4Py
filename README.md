@@ -1,6 +1,6 @@
 # Mars-bs4Py
 
-# Project: Web Scraping and Data Analysis on Mars!
+# Web Scraping and Data Analysis on Mars!
 
 ## Project Overview:
 
@@ -17,18 +17,15 @@ This project focuses on web scraping and data analysis related to Mars. The main
 - **Description:** This notebook contains code that scrapes Mars weather data from a website using Beautiful Soup, assembles it into a Pandas DataFrame, and then analyzes the data to answer specific questions. The analysis includes determining the number of months on Mars, the number of Martian days' worth of data, identifying the coldest and warmest months, finding the months with the lowest and highest atmospheric pressure, and estimating the number of terrestrial days in a Martian year. The final DataFrame is exported to a CSV file.
 
 ## File Structure:
-
-Mars-bstPy (repository)  
-|  
-|-- MarsScraping_Analysis (directory)  
-|   |-- part_1_mars_news.ipynb  
-|   |-- part_2_mars_weather.ipynb  
-|   |-- README.md  
-|  
-|-- Data_Outputs (directory)  
-|   |-- mars_news_data.json  
-|   |-- mars_weather_data.csv  
-
+ 
+- Mars-bstPy
+  - MarsScraping_Analysis
+    - part_1_mars_news.ipynb: Jupyter Notebook file for scraping Mars news titles and preview text.
+    - part_2_mars_weather.ipynb: Jupyter Notebook file for scraping and analyzing Mars weather data.
+    - Data_Outputs
+      - mars_news_data.json: JSON file containing scraped data related to Mars news articles.
+      - mars_weather_data.csv: CSV file containing scraped data related to Mars weather.
+- README.md: Contains the overview, instructions, or other relevant information.
 
 
 
